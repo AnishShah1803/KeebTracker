@@ -84,7 +84,11 @@ I want to be able to log out of KeebTracker
 ### Component Hierarchy
 >- App, Header, LiveGBs, Footer
 
+## Initial Logo
+![KeebTracker logo](public/KeebTrackerLarge.png)
 
+### Logo explanation
+>- A keyboard where the highlighted keys display a KT hence KeebTracker and a background that matches the colourtheme of the service. An improvement I would like to make to it would be for the circle surrounding it to be a usb wire coming from the  keyboard itself.
 <!-- ## Home page wireframe logged in
 <!-- ![Home page logged in](client/public/Wireframe_Homepage_Logged_In.PNG) -->
 
